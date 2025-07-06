@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# VS Code config
+.vscode/
+
+# Environment variables
+.env
+*.env
+
+# macOS system files
+.DS_Store
+
+# Test and coverage results
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest
+.pytest_cache/
+
+# Logs
+*.log
+
+# mypy / pylint / other linters
+.mypy_cache/
+.dmypy.json
+.pyre/
+.pytype/
+
+# Packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDEs
+.idea/
+*.sublime-project
+*.sublime-workspace
+
